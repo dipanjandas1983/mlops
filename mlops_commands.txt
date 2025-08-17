@@ -30,6 +30,12 @@ To open the mlflow ui
 
 # mlflow ui
 
+=================================
+
+To open jupyter lab
+
+# jupyter lab
+
 
 
                                                                                    
