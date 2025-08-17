@@ -1,0 +1,26 @@
+
+in VsCode
+
+create vitual environment 
+============================
+check the python version first then run the following command 
+
+in vscode -> new terminal -> select command prompt from the drop down 
+
+# conda create -p venv python==3.13
+
+
+# To activate this environment, use
+#                                                                                                             
+#     $ conda activate C:\Users\91833\Desktop\Dipanjan\Cloud\Python\mlops\venv                                
+#                                                                                                             
+# To deactivate an active environment, use                                                                    
+#                                                                                                             
+#     $ conda deactivate   
+
+===============================
+
+install ipykernel package to run the jupiter notebook 
+
+                                                                                   
+                                       
