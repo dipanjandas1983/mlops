@@ -22,5 +22,15 @@ in vscode -> new terminal -> select command prompt from the drop down
 
 install ipykernel package to run the jupiter notebook 
 
+# pip install ipykernel 
+
+===============================
+
+To open the mlflow ui 
+
+# mlflow ui
+
+
+
                                                                                    
                                        
